@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "炸裂俺らの青い春",
+  "base_artist": "T-Pis",
+  "createdAt": "2025-12-26T01:18:02.629619Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "炸裂俺らの青い春",
+      "artist": "T-Pis",
+      "has_synced": false,
+      "path": "select/pl_01_炸裂俺らの青い春_T-Pis.txt"
+    }
+  ]
+}
